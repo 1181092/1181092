@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Margarida, that means daisy in Portuguese (Portugal), which is where i am from.
+ <!-- - 👋 Hi, I’m Margarida, that means daisy in Portuguese (Portugal), which is where i am from.
 - 👀 I’m interested in improving my coding skills and learning more languages.
 - 🌱 I’m currently learning python, java, and Web Development (HTML, CSS and JavaScript)
 - 💞️ I’m still trying to figure out how to collab on gitHub, and how all of this platform and community works.
